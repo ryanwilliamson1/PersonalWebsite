@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+a:link {
+    background-color: blue;
+}
+
+a:visited {
+    background-color: red;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: purple;
+} 
+p {
+	color: blue;
+}
+</style>
+</head>
+</html>
